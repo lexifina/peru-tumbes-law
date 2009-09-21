@@ -1,0 +1,14 @@
+ORDENANZA REGIONAL
+Nº 007-2009-GOB.REG. TUMBES-CR
+EL CONSEJO REGIONAL TUMBES
+POR CUANTO:
+El Consejo Regional del Gobierno Regional Tumbes, en Sesión Extraordinaria de Consejo Nº 07 de fecha 19 de junio del 2009, aprobó mediante Acuerdo de Consejo Regional Nº 047-2009/GOB.REG.TUMBES-CR-CD, la presente.
+CONSIDERANDO:
+Que, de conformidad con lo previsto en los Artículos 191º y 192º de la Constitución Política del Perú, modificado por Ley de Reforma Constitucional Nº 27680, los Gobiernos Regionales tienen autonomía política, económica y administrativa en asuntos de su competencia así como aprobar su organización interna y su presupuesto;
+Que, mediante Ordenanza Regional Nº 004-2008/ GOB.REG.TUMBES-CR, se anula la posibilidad de emitir Certificados contra Accidentes de Tránsito – CAT a los vehículos de transporte público terrestre interprovincial de ámbito regional;
+Que, el tercer párrafo del artículo 30, inc. 30.1, de la Ley Nº 28839, establece que las AFOCAT, previo permiso de los Gobiernos Locales y/o Regionales, podrán suscribir convenios para ampliar el ámbito de aplicación del certificado contra accidentes de tránsito en territorios continuos, con conocimiento previo del Ministerio de Transportes y Comunicaciones, asímismo, el Inc. 30.1 establece en su primer párrafo que las AFOCAT entregarán el certificado exclusivamente a vehículos de transporte público terrestre y mototaxis, urbano o interurbano, que presten servicios al interior de la región o provincia;
+Que, existe como antecedente el D.S. Nº 039-2008-MTC, que considera a las Provincias de Lima Metropolitana y del Callao como una sola región, pudiendo las AFOCAT operar dentro del territorio continuo formado por ambas jurisdicciones sin contar con la aprobación de convenio previo;
+Que la Constitución Política consagra el Principio de Igualdad, en tal sentido, no puede haber privilegios para algunos, por lo que estando la Región Tumbes conformada por provincias asentadas a pocos kilómetros de distancia una de la otra, para efectos de validez del Certificado contra Accidente de Tránsito – CAT, emitidos por la AFOCAT – FASMOT de Tumbes, las provincias de la Región se considerarán como territorio continuo, dado que no existe en la Región otra AFOCAT con la que pueda suscribir convenio para extender su validez;
+Que el Artículo 38º de la misma Ley Orgánica de Gobiernos Regionales, establece que las Ordenanzas Regionales norman asuntos de carácter general, la organización y la administración del Gobierno Regional y reglamentan materias de su competencia;
+Que, estando a lo expuesto y de conformidad con la Constitución Política del Estado, en uso de las atribuciones conferidas por la Ley Nº 27867, Ley Orgánica de Gobiernos Regionales y sus modificatorias Leyes Nºs. 27902, 28968 y 29053;
+Ha dado la Ordenanza Regional siguiente:
