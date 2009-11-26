@@ -1,0 +1,13 @@
+ORDENANZA REGIONAL
+Nº 009-2009-GOB.REG. TUMBES – CR
+EL CONSEJO REGIONAL TUMBES
+POR CUANTO:
+El Consejo Regional del Gobierno Regional Tumbes, en Sesión Ordinaria de Consejo Nº 08 de fecha 13 de Agosto del 2009, aprobó mediante Acuerdo de Consejo Regional Nº 061..-2009/GOB.REG.TUMBES-CR-CD
+CONSIDERANDO:
+Que, de conformidad con lo previsto en los Artículos 191º y 192º de la Constitución Política del Perú, modificado por Ley de Reforma Constitucional Nº 27680, los Gobiernos Regionales tienen autonomía política, económica y administrativa en asuntos de su competencia así como aprobar su organización interna y su presupuesto;
+Que, el Artículo 38º de la Ley Orgánica de Gobiernos Regionales establece que las Ordenanzas Regionales norman asuntos de carácter general, la organización y la administración del Gobierno Regional y reglamentan materias de su competencia;
+Que, el artículo 10° literal h) de la Ley N° 27867, Ley Orgánica de Gobiernos Regionales, en concordancia con el artículo 36° de la Ley N° 27783-Ley de Bases de la Descentralización, establece como competencia compartida de los Gobiernos Regionales, la participación ciudadana, alentando la concertación entre los intereses públicos y privados en todos los niveles;
+Que, el artículo 48° literal d) de la Ley N° 27867 -Ley Orgánica de Gobiernos Regionales, establece sus funciones en materia de trabajo, promoción del empleo y la pequeña y microempresa, el promover el diálogo y la concertación con las organizaciones representativas de los trabajadores, empleadores y sectores de la sociedad vinculados en materia de trabajo, promoción del empleo, formación profesional y fomento de la micro y pequeña empresa, en total armonía con las competencias atribuidas al Consejo Nacional del Trabajo y Promoción del Empleo, que es un órgano consultivo del Ministerio de Trabajo y Promoción del Empleo;
+Que, el funcionamiento del Consejo Regional de Trabajo y Promoción del Empleo, tiene como función la discusión y concertación de políticas en materia de trabajo, de promoción y previsión del empleo en función del desarrollo regional, concordante con las políticas de desarrollo nacional, promoviendo la participación de todos los sectores involucrados, a través de la ejecución de los procesos de planificación, gestión, vigilancia y evaluación del desarrollo laboral en la Región Tumbes;
+Que, estando a lo expuesto y de conformidad con la Constitución Política del Estado, en uso de las atribuciones conferidas por la Ley Nº 27867, Ley Orgánica de Gobiernos Regionales y sus modificatorias Leyes Nºs. 27902, 28968 y 29053;
+HA DADO LA ORDENANZA REGIONAL SIGUIENTE:
