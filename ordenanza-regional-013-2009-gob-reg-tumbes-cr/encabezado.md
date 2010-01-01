@@ -1,0 +1,15 @@
+ORDENANZA REGIONAL
+Nº 013-2009-GOB.REG.TUMBES-CR
+EL CONSEJO REGIONAL TUMBES
+POR CUANTO:
+El Consejo Regional del Gobierno Regional Tumbes, en Sesión Ordinaria de Consejo Nº 10-2009 de fecha 13 de octubre del 2009, mediante Acuerdo de Consejo Regional Nº 070-2009/GOB.REG.TUMBES-CR-CD;
+CONSIDERANDO:
+Que, el artículo 1º del Convenio de la Diversidad Biológica, suscrito en la Cumbre de Río en junio del año 1992, e incorporado a nuestro ordenamiento nacional por medio de la Resolución Legislativa Nº 26181 el año 1993, declara que son objetivos de dicho convenio la conservación de la diversidad biológica, la utilización sostenible de sus componentes y la participación justa y equitativa en los beneficios que se deriven de la utilización de los recursos genéricos;
+Que, el artículo 3º de la Ley Nº 26839, Ley sobre la Conservación y Aprovechamiento Sostenible, establece que en el marco del desarrollo sostenible, la conservación y utilización sostenible de la diversidad biológica implica la conservación de la diversidad de ecosistemas, especies y genes, así como mantener los procesos ecológicos esenciales de los que dependen la supervivencia de las especies. Asimismo, implica promover la participación justa y equitativa en los beneficios que se deriven de la utilización de la diversidad biológica;
+Que, la Ley Orgánica de Gobiernos Regionales Nº 27867 y sus modificatorias, en su artículo 53º inciso c), establece que son funciones específicas de los Gobiernos Regionales, en materia ambiental: formular, coordinar, conducir y supervisar la aplicación de las estrategias regionales respecto a la diversidad biológica; en su inciso
+i) Formular planes, desarrollar e implementar programas para la venta de servicios ambientales en regiones con bosques naturales o áreas protegidas;
+Que, el artículo 85º de la Ley Nº 28611 – Ley General del Ambiente, establece que el Estado promueve la conservación y el aprovechamiento sostenible de los recursos naturales a través de políticas, normas, instrumentos y acciones de desarrollo, así como mediante el otorgamiento de derechos, conforme a los límites y principios expresados en la Ley y demás leyes y normas reglamentarias aplicables;
+Que, de conformidad con lo previsto en los Artículos 191º y 192º de la Constitución Política del Perú, modificado por Ley de Reforma Constitucional Nº 27680, los Gobiernos Regionales tienen autonomía política, económica y administrativa en asuntos de su competencia así como aprobar su organización interna y su presupuesto;
+Que, el Artículo 38º de la Ley Orgánica de Gobiernos Regionales establece que las Ordenanzas Regionales norman asuntos de carácter general, la organización y la administración del Gobierno Regional y reglamentan materias de su competencia;
+Que, estando a lo expuesto y de conformidad con la Constitución Política del Estado, en uso de las atribuciones conferidas por la Ley Nº 27867, Ley Orgánica de Gobiernos Regionales y sus modificatorias Leyes Nºs. 27902, 28968 y 29053;
+Ha dado la Ordenanza Regional siguiente:
