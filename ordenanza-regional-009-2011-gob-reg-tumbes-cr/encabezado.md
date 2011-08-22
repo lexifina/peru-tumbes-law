@@ -1,0 +1,15 @@
+ORDENANZA REGIONAL
+Nº 009-2011-GOB.REG.TUMBES-CR
+Tumbes, 21 de julio del 2011 EL CONSEJO REGIONAL TUMBES
+POR CUANTO:
+El Consejo Regional del Gobierno Regional Tumbes, en Sesión Extraordinaria de Consejo Nº 18, de fecha 21 de Julio del 2011, aprobó mediante Acuerdo de Consejo Regional Nº 063-2011/GOB.REG.TUMBES-CR-CD, el Dictamen de la Comisión de Planeamiento, Presupuesto y Acondicionamiento Territorial.
+CONSIDERANDO:
+Que, de conformidad con lo previsto en los Artículos 191º y 192º de la Constitución Política del Perú, modificado por Ley de Reforma Constitucional Nº 27680, los Gobiernos Regionales tienen autonomía política, económica y administrativa en asuntos de su competencia;
+Que, la finalidad esencial de los gobiernos regionales es fomentar el desarrollo regional integral sostenible, promoviendo la inversión pública y privada y el empleo y garantizar el ejercicio pleno de los derechos y la igualdad de oportunidades de sus habitantes, de acuerdo con los planes y programas nacionales, regionales y locales de desarrollo;
+Que, la misión de los gobiernos regionales es organizar y conducir la gestión pública regional de acuerdo a sus competencias exclusivas, compartidas y delegadas, en el marco de las políticas nacionales y sectoriales, para contribuir al desarrollo integral y sostenible de la región;
+Que, los gobiernos regionales crearán mecanismos para promover la inversión privada nacional y extranjera dirigidos a lograr el crecimiento económico regional conforme a ley. En el marco de sus competencias, otorgan concesiones y celebran cualquier otra modalidad contractual, siempre que se contribuya al desarrollo sostenible local y regional, se asegure una mayor eficiencia social y se garantice el cumplimiento de las normas legales establecidas;
+Que, la Agencia Regional de Cooperación Técnica Internacional y Fomento de las Inversiones de Tumbes – ARCIT, es un órgano desconcentrado de asesoramiento de la presidencia del Gobierno Regional de Tumbes;
+Que, la ARCIT se crea con el propósito de mejorar el bienestar social y económico de la población pobre y extremadamente pobre, mediante la gestión de recursos técnicos y financieros para programas y proyectos que propicien un alto rendimiento social, a través de la captación de la cooperación internacional, para lo cual se identificará a los principales actores que integran el Sistema de Cooperación Internacional No Reembolsable;
+Que, la Agencia Regional de Cooperación Técnica Internacional y Fomento de las Inversiones de Tumbes – ARCIT, se creará sobre la base de la infraestructura y recurso humano de la oficina de Cooperación Técnica Internacional existente en el Gobierno Regional Tumbes, cuyas funciones tendrán mayores responsabilidades y trascendencia para el desarrollo de la región;
+Que, estando a lo expuesto y de conformidad con la Constitución Política del Estado, en uso de las atribuciones conferidas por la Ley Nº 27867, Ley Orgánica de Gobiernos Regionales y sus modificatorias;
+HA DADO LA ORDENANZA REGIONAL SIGUIENTE:
