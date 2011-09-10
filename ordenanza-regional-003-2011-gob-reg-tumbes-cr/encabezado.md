@@ -1,0 +1,14 @@
+ORDENANZA REGIONAL
+Nº 003-2011-GOB.REG. TUMBES – CR
+EL CONSEJO REGIONAL TUMBES
+POR CUANTO:
+El Consejo Regional del Gobierno Regional Tumbes, en Sesión Ordinaria de Consejo Nº 06 de fecha 03 de Junio del 2011, aprobó mediante Acuerdo de Consejo Regional Nº 043-2011/GOB.REG.TUMBES-CR-CD, el Dictamen de la Comisión de Desarrollo Económico.
+CONSIDERANDO:
+Que, de conformidad con lo previsto en los Artículos 191º y 192º de la Constitución Política del Perú, modificado por Ley de Reforma Constitucional Nº 27680, los Gobiernos Regionales tienen autonomía política, económica y administrativa en asuntos de su competencia así como aprobar su organización interna y su presupuesto;
+Que, la Ley Nº 27867 Ley Orgánica de Gobiernos Regionales, modificada con las Leyes Nºs. 27902 y 29053, establece que es atribución del Consejo Regional la de aprobar, modificar o derogar las normas que regulen o reglamenten los asuntos y materias de competencia y funciones del Gobierno Regional su organización interna y su presupuesto;
+Que, mediante Decreto Supremo N° 043-2004-PCM se aprobó los lineamientos para la elaboración y aprobación del Cuadro para Asignación de Personal – CAP de las entidades de la Administración Pública, estableciendo entre otros, que los CAP son documentos de gestión y que los Gobiernos Regionales lo aprobarán mediante Ordenanza Regional;
+Que, con Ordenanza Regional N° 0041-2006/ GOB.REG.TUMBES-CR se aprobó el Cuadro para Asignación de Personal – CAP de la Dirección Regional de Agricultura vigente a la actualidad, sin embargo, se ha producido transferencia de funciones que han generado la incorporación en el ROF, de la Oficina del Órgano de Control Institucional y tres nuevos órganos de línea (Dirección de Infraestructura; Dirección de Forestal Fauna Silvestre y Asuntos Ambientales; y la Dirección de Saneamiento de la Propiedad Rural);
+Que, los cargos del Órgano de Asesoramiento y de Apoyo se sustentan en las nuevas funciones que han sido transferidas. De igual manera los cargos previstos que suman 52, superando el porcentaje establecido por el Decreto Supremo N° 043-2000-PCM, tiene justificación técnica y legal pues obedece al proceso de transferencia de funciones regulado en el artículo 51° de la Ley Orgánica de Gobiernos Regionales y en el Reglamento de la Ley N° 28273 del Sistema de Acreditación de los Gobiernos Regionales, aprobado con D.S. N° 080-2004-PCM;
+Que asimismo, la Oficina de Asesoría Jurídica, con Informe N° 531-2011-GOBIERNO REGIONAL DE TUMBES-GGR-ORAJ, ha emitido opinión legal favorable a la aprobación del nuevo Cuadro para Asignación de Personal –CAP de la Dirección Regional de Agricultura;
+Que, estando a lo expuesto y de conformidad con la Constitución Política del Estado, en uso de las atribuciones conferidas por la Ley Nº 27867, Ley Orgánica de Gobiernos Regionales y sus modificatorias;
+HA DADO LA ORDENANZA REGIONAL SIGUIENTE:
