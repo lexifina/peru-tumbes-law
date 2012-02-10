@@ -1,0 +1,13 @@
+ORDENANZA REGIONAL
+Nº 013-2011-GOB.REG. TUMBES-CR
+Tumbes, 6 de diciembre del 2011
+EL CONSEJO REGIONAL TUMBES
+POR CUANTO:
+El Consejo Regional del Gobierno Regional Tumbes, en Sesión Ordinaria de Consejo Nº 12 de fecha 06 de diciembre del 2011, aprobó mediante Acuerdo de Consejo Regional Nº 095-2011/GOB.REG.TUMBES-CR-CD, el Dictamen sobre Prácticas Pre Profesionales.
+CONSIDERANDO:
+Que, la práctica pre profesional es una modalidad formativa de tipo especial que se lleva a cabo a través de un convenio celebrado entre una entidad (privada o pública), una persona en formación y el centro de formación profesional, a fin de relacionar el aprendizaje teórico y práctico, mediante el desempeño de tareas programadas de capacitación y formación profesional. Esta modalidad permite a la persona en formación durante su condición de estudiante, aplicar sus conocimientos, habilidades y aptitudes mediante el desempeño en una situación real de trabajo;
+Que, la práctica pre profesional de los estudiantes universitarios en las empresas y entidades públicas o privadas se encuentra regulada por la Ley Nº 28518 – Ley sobre modalidades formativas laborales y su reglamento aprobado por Decreto Supremo Nº 007-2005-TR;
+Que, el Artículo 4º de la Ley Orgánica de Gobiernos Regionales señala que la finalidad esencial de los gobiernos regionales es fomentar el desarrollo regional integral sostenible, promoviendo la inversión pública y privada y el empleo y garantizar el ejercicio pleno de los derechos y la igualdad de oportunidades de sus habitantes, de acuerdo con los planes y programas nacionales, regionales y locales de desarrollo. Y como función específica en educación, el artículo 47º de la Ley Orgánica de Gobiernos Regionales establece que se debe promover una cultura de derecho, de paz y de igualdad de oportunidades para todos, así como elaborar y aprobar normas de alcance regional, regulando los servicios de su competencia;
+Que, el artículo 191º de la Constitución Política del Perú de 1993, modificado por la Ley Nº 27680 Ley de Reforma Constitucional del Capítulo XIV del Título IV, sobre descentralización concordante con el artículo 2º de la Ley Nº 27867 Ley Orgánica de Gobiernos Regionales, establecen que los Gobiernos Regionales que emanan de la voluntad popular, son personas jurídicas de derecho público, con autonomía política económica y administrativa en asuntos de su competencia;
+Que, estando a lo expuesto y de conformidad con la Constitución Política del Estado, en uso de las atribuciones conferidas por la Ley Nº 27867, Ley Orgánica de Gobiernos Regionales y sus modificatorias;
+Ha dado la Ordenanza Regional siguiente:
