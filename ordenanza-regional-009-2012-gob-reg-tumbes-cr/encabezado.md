@@ -1,0 +1,14 @@
+ORDENANZA REGIONAL
+Nº 009-2012-GOB.REG.TUMBES-CR
+EL CONSEJO REGIONAL TUMBES
+POR CUANTO:
+En Sesión Ordinaria de Consejo Regional Nº 09-2012, realizada el 06 de setiembre del 2012, aprobó mediante Acuerdo de Consejo Regional Nº 045-2012/GOB. REG.TUMBES-CR-CD, el Dictamen de la Comisión de Desarrollo Social, sobre “Plan Regional de la Juventud de Tumbes 2012 – 2016”.
+CONSIDERANDO:
+Que, la Constitución Política del Perú de 1993, reconoce los derechos a la igualdad ante la ley, a la libertad de información, opinión, expresión y difusión del pensamiento, a participar, ya sea en forma individual o asociada, en la vida política, económica, social y cultural de la Nación. Asimismo, el derecho a la salud, la educación y el trabajo;
+Que, los artículos 191º y 192º de la Constitución Política del Perú de 1993 señalan que los Gobiernos Regionales tienen autonomía política, económica y administrativa en los asuntos de su competencia, entre ellos promover el desarrollo económico regional en armonía con las políticas y planes nacionales de desarrollo;
+Que, el artículo 6º de la Ley 27867, Ley Orgánica de Gobiernos Regionales, señala que “El desarrollo regional comprende la aplicación coherente y eficaz de las políticas e instrumentos de desarrollo económico social, poblacional, cultural y ambiental, a través de planes, programas y proyectos orientados a generar condiciones que permitan el crecimiento económico armonizado con la dinámica demográfica, el desarrollo social equitativo y la conservación de los recursos naturales y el ambiente en el territorio regional, orientado hacia el ejercicio pleno de los derechos de hombres y mujeres e igualdad de oportunidades;
+Que, el Poder Ejecutivo, en su calidad de ente rector, mediante D.S. Nº 027-2007-PCM, ha establecido Políticas Nacionales de obligatorio cumplimiento para las entidades del Gobierno Nacional, entre ellas, políticas en materia de juventud, cuyo cumplimiento será supervisado por el Ministerio de Educación, a través de la Dirección Nacional de la Juventud;
+Que, al amparo y cumplimiento de las normas mencionadas, la Gerencia de Desarrollo Social ha elaborado el Plan Regional de la Juventud 2012-2016, el mismo que implementa las políticas nacionales de obligatorio cumplimiento para las entidades del gobierno nacional PCM;
+Que, de conformidad a lo estipulado en el artículo 38º de la Ley 27867 – Ley Orgánica de Gobiernos Regionales, las ordenanzas regionales norman asuntos de carácter general, la organización y la administración del Gobierno Regional y reglamentan materias de su competencia;
+Que, estando a lo expuesto y de conformidad con la Constitución Política del Estado, en uso de las atribuciones conferidas por la Ley Nº 27867, Ley Orgánica de Gobiernos Regionales y sus modificatorias;
+HA DADO LA ORDENANZA REGIONAL SIGUIENTE:
