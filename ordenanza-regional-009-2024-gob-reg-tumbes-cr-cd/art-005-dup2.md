@@ -1,0 +1,1 @@
+Artículo Quinto.- ENCARGAR a la Oficina Regional de Administración realizar las acciones administrativas necesarias para la implementación de la presente Ordenanza Regional, y para su publicación en el Diario Oficial “El Peruano”, y en el portal Institucional del Gobierno Regional de Tumbes.

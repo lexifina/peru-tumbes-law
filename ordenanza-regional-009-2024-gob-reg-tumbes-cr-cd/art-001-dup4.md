@@ -1,0 +1,1 @@
+Artículo Primero.- DECLARAR de Necesidad e Interés Regional la priorización de medidas y acciones destinadas al cumplimiento de lo dispuesto en las Ordenanzas Regionales Nº 012-2011, 004-2019 Y 007-2013, estableciendo como prioridad para los próximos tres (03) años la adopción de medidas y acciones para atender la problemática de embarazos en adolescentes en la región Tumbes.

@@ -1,0 +1,6 @@
+Artículo Tercero.- DISPONER, que la red Regional de Niñas, Niños y Adolescentes Tumbes - REDNNAT participe en la implementación del PLAN REGIONAL DE ACCION POR LOS NIÑOS, NIÑAS Y ADOLESCENTES TUMBES - PRANNAT 2019-2022.
+(…)
+Que, mediante DICTAMEN Nº 006-2024/GOB. REG. TUMBES-CODS, del 02 de agosto del 2024, los Consejeros Regionales integrantes de la Comisión Ordinaria de Desarrollo Social recomendaron que se “DECLARE DE NECESIDAD E INTERES REGIONAL LA PRIORIZACION DE MEDIDAS Y ACCIONES DESTINADAS A ATENDER LA PROBLEMÁTICA DE EMBARAZOS EN ADOLESCENTES EN LA REGION TUMBES Y CREA LA MESA DE COORDINACION MULTISECTORIAL DE TUMBES.
+Que, mediante el Acuerdo de Consejo Regional Nº 096-2024/GOB. REG. TUMBES-CR-CD, del 13 de agosto del 2024, se aprobó por unanimidad el DICTAMEN Nº 006- 2024/GOB. REG. TUMBES-CR-CODS, formulado por la Comisión Ordinaria de Desarrollo Social, y se ordenó la emisión de la Ordenanza Regional respectiva.
+De conformidad, con la Constitución Política del Estado, y en uso de las atribuciones conferidas por la Ley N° 27867, Ley Orgánica de Gobiernos Regionales, en concordancia con el Reglamento Interno del Consejo Regional, aprobado con la Ordenanza Regional N° 003-2015/GOB. REG. TUMBES-CR, el Consejo Regional de Tumbes:
+HA APROBADO LA ORDENANZA REGIONAL SIGUIENTE:

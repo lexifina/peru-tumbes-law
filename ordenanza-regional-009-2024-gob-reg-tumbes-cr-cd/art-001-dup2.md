@@ -1,0 +1,1 @@
+Artículo Primero.- DECLARAR, como necesidad publica e interés regional a la educación sexual integral como prioridad educativa en la región de Tumbes e implementarla con todos los niveles de educación básica regular.
