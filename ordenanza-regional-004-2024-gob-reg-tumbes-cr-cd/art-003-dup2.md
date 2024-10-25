@@ -1,0 +1,2 @@
+Artículo Tercero: El Comité Consultivo Regional de Tumbes permitirá la incorporación gradual de representantes de instituciones del ámbito regional vinculados al sector turismo, debiendo formalizarse su incorporación con Resolución Ejecutiva Regional.
+El Comité Consultivo Regional de Tumbes tiene la función de retirar o separar a sus miembros que lo integran, debiendo previamente establecer en su Reglamento los motivos o circunstancias que lo ameriten.

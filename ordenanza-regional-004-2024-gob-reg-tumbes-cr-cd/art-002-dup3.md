@@ -1,0 +1,1 @@
+Artículo Segundo.- ENCARGAR al responsable de la Oficina Regional de Administración, realice las acciones administrativas necesarias para la publicación de la presente Ordenanza Regional en el Diario Oficial El Peruano, la misma que luego de ello deberá ser publicada en el Portal Web del Gobierno Regional Tumbes.
