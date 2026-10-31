@@ -1,0 +1,11 @@
+{
+  "path": "pe-tum",
+  "code": "PE-TUM",
+  "name": "Tumbes",
+  "level": "region",
+  "parent": "pe",
+  "repo": "https://github.com/lexifina/peru-tumbes-law",
+  "build": "built: 116 ordinances as published in El Peruano",
+  "language": "es",
+  "sources": 1
+}
