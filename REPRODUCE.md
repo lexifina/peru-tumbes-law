@@ -143,20 +143,48 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `ordenanza-regional-010-2012-gob-reg-tumbes-cr` | Ordenanza Regional N° 010-2012-GOB.REG.TUMBES-CR: Declaran el segundo viernes de octubre de cada año como el Día del Niño, Niña y Adolescente Tumbesino e institucionalizan el Congreso Regional Anual por los Derechos de las Niñas, Niños y Adolescentes de Tumbes | 1 | 2013-01-05 to 2013-01-05 |
 | `ordenanza-regional-007-2012-gob-reg-tumbes-cr` | Ordenanza Regional N° 007-2012-GOB.REG.TUMBES-CR: Aprueban el Plan Regional Concertado de Salud 2012 - 2016 | 1 | 2012-11-23 to 2012-11-23 |
 | `ordenanza-regional-006-2012-gob-reg-tumbes-cr` | Ordenanza Regional N° 006-2012-GOB.REG.TUMBES-CR: Aprueban el Plan de Desarrollo Regional Concertado 2011-2014 del Gobierno Regional | 1 | 2012-10-14 to 2012-10-14 |
+| `ordenanza-regional-014-2011-gob-reg-tumbes-cr` | Ordenanza Regional N° 014-2011-GOB.REG.TUMBES-CR: Crean el Consejo Regional de la Micro y Pequeña Empresa de la Región Tumbes - COREMYPE Tumbes | 1 | 2012-02-20 to 2012-02-20 |
+| `ordenanza-regional-012-2011-gob-reg-tumbes-pr` | Ordenanza Regional N° 012-2011/GOB. REG. TUMBES-PR: Formalizan la creación de la Red de Acción por los Derechos de las Niñas, Niños y Adolescentes de Tumbes | 1 | 2012-02-20 to 2012-02-20 |
+| `ordenanza-regional-013-2011-gob-reg-tumbes-cr` | Ordenanza Regional N° 013-2011-GOB.REG.TUMBES-CR: Disponen implementar la Directiva N° 005-2010-EF/76.01 "Directiva para la ejecución presupuestaria" | 1 | 2012-02-10 to 2012-02-10 |
+| `ordenanza-regional-011-2011-gob-reg-tumbes-cr` | Ordenanza Regional N° 011-2011/GOB.REG. TUMBES-CR: Modifican Reglamento de Organización y Funciones de la Dirección Regional de Agricultura Tumbes | 1 | 2011-11-10 to 2011-11-10 |
+| `ordenanza-regional-010-2011-gob-reg-tumbes-cr` | Ordenanza Regional N° 010-2011-GOB. REG. TUMBES-CR: Aprueban la actualización del Reglamento de Organización y Funciones de la Dirección Regional de Trabajo y Promoción del Empleo del Gobierno Regional | 1 | 2011-10-10 to 2011-10-10 |
+| `ordenanza-regional-008-2011-gob-reg-tumbes-cr` | Ordenanza Regional N° 008-2011-GOB.REG. TUMBES-CR: Modifican el nombre de la Oficina de Atención a Personas con Habilidades Diferentes por Oficina de Atención a Personas con Discapacidad | 1 | 2011-09-10 to 2011-09-10 |
+| `ordenanza-regional-001-2011-gob-reg-tumbes-cr` | Ordenanza Regional N° 001-2011-GOB.REG. TUMBES-CR: Aprueban modificación del Cuadro para Asignación de Personal de la Dirección Regional de la Producción de Tumbes | 1 | 2011-08-22 to 2011-08-22 |
+| `ordenanza-regional-009-2011-gob-reg-tumbes-cr` | Ordenanza Regional N° 009-2011-GOB.REG. TUMBES-CR: Crean la Agencia Regional de Cooperación Técnica Internacional y Fomento de las Inversiones de Tumbes - ARCIT | 1 | 2011-08-22 to 2011-08-22 |
+| `ordenanza-regional-005-2011-gob-reg-tumbes-cr` | Ordenanza Regional N° 005-2011-GOB.REG.TUMBES-CR: Declaran feriado laborable los primeros miércoles y jueves de los meses de marzo, junio, setiembre y diciembre a fin de promover la participación en actividades de prevención y control del dengue, malaria y otras epidemias | 1 | 2011-07-29 to 2011-07-29 |
+| `ordenanza-regional-009-2010-gob-reg-tumbes-cr` | Ordenanza Regional N° 009-2010-GOB.REG. TUMBES-CR: Aprueban el Reglamento de Organización y Funciones - ROF 2010, de la Dirección Regional de Agricultura | 1 | 2010-09-09 to 2010-09-09 |
+| `ordenanza-regional-007-2010-gob-reg-tumbes-cr` | Ordenanza Regional N° 007-2010-GOB.REG.TUMBES-CR: Crean la Sub Comisión Regional de Lucha contra los Delitos Aduaneros y Piratería | 1 | 2010-06-27 to 2010-06-27 |
+| `ordenanza-regional-006-2010-gob-reg-tumbes-cr` | Ordenanza Regional N° 006-2010-GOB.REG.TUMBES-CR: Aprueban Políticas Regionales de Formación Profesionial en Tumbes | 1 | 2010-06-27 to 2010-06-27 |
+| `ordenanza-regional-004-2010-gob-reg-tumbes-cr` | Ordenanza Regional N° 004-2010-GOB.REG.TUMBES-CR: Aprueban conformación de la Comisión Técnica Regional de Zonificación Ecológica Económica y Ordenamiento Territorial de la Región Tumbes | 1 | 2010-06-05 to 2010-06-05 |
+| `ordenanza-regional-003-2010-gob-reg-tumbes-cr` | Ordenanza Regional N° 003-2010/GOB.REG.TUMBES-CR: Aprueban el Proyecto Educativo Regional de Tumbes 2010-2025  PER Tumbes | 1 | 2010-05-07 to 2010-05-07 |
+| `ordenanza-regional-014-2009-gob-reg-tumbes-cr` | Ordenanza Regional N° 014-2009.GOB.REG.TUMBES-CR: Crean el Consejo Regional de Fomento Artesanal de Tumbes - COREFART | 1 | 2010-04-29 to 2010-04-29 |
+| `ordenanza-regional-016-2009-gob-reg-tumbes-cr` | Ordenanza Regional N° 016-2009-GOB.REG.TUMBES-CR: Transfieren funciones y competencias sobre micro y pequeñas empresas a la Dirección Regional de la Producción | 1 | 2010-02-07 to 2010-02-07 |
+| `ordenanza-regional-022-2008-gob-reg-tumbes-cr` | Ordenanza Regional N° 022-2008-GOB.REG. TUMBES-CR: Aprueban antigüedad máxima vehicular para acceder al servicio de transporte terrestre de personas en la Región Tumbes | 1 | 2010-02-04 to 2010-02-04 |
+| `ordenanza-regional-001-2010-gob-reg-tumbes-cr` | Ordenanza Regional N° 001-2010-GOB.REG.TUMBES-CR: Modifican Reglamento de Organización y Funciones de la Dirección Regional de Salud | 1 | 2010-01-31 to 2010-01-31 |
+| `ordenanza-regional-006-2008-gob-reg-tumbes-cr` | Ordenanza Regional N° 006-2008-GOB.REG. TUMBES-CR: Crean el Programa Regional de Manejo Sostenible de los Bosques Secos - NORBOSQUE- Tumbes | 1 | 2010-01-23 to 2010-01-23 |
+| `ordenanza-regional-017-2008-gob-reg-tumbes-cr` | Ordenanza Regional N° 017-2008-GOB.REG.TUMBES-CR: Aprueban formatos de Declaración Jurada para el acopio, transporte y/o comercialización de productos hidrobiológicos | 1 | 2010-01-18 to 2010-01-18 |
+| `ordenanza-regional-017-2009-gob-reg-tumbes-cr` | Ordenanza Regional N° 017-2009-GOB.REG.TUMBES-CR: Aprueban Plan Estratégico Regional Multisectorial 2010 - 2015 para la prevención y control de las ITS, VIH y SIDA | 1 | 2010-01-01 to 2010-01-01 |
+| `ordenanza-regional-013-2009-gob-reg-tumbes-cr` | Ordenanza Regional N° 013-2009-GOB.REG.TUMBES-CR: Crean el "Sistema Regional de Conservación de Áreas Naturales de Tumbes - SRCA Tumbes" y el "Programa Regional de Conservación de Áreas Naturales de Tumbes - PRCAN" | 1 | 2010-01-01 to 2010-01-01 |
+| `ordenanza-regional-015-2009-gob-reg-tumbes-cr` | Ordenanza Regional N° 015-2009/GOB.REG.TUMBES-CR: Crean la Unidad Ejecutora del Proyecto Especial Irrigación de la Margen Derecha del Río Tumbes y aprueban Manual de Operaciones | 1 | 2009-12-06 to 2009-12-06 |
+| `ordenanza-regional-009-2009-gob-reg-tumbes-cr` | Ordenanza Regional N° 009-2009-GOB.REG.TUMBES-CR: Crean el Consejo Regional del Trabajo y Promoción del Empleo de Tumbes | 1 | 2009-11-26 to 2009-11-26 |
+| `ordenanza-regional-027-2008-gob-reg-tumbes-cr` | Ordenanza Regional N° 027-2008-GOB.REG.TUMBES-CR: Establecen obligatoriedad de inscripción de los Prestadores de Servicios Turísticos de la Región Tumbes, en los Registros de la Dirección de Turismo de la Dirección Regional de Comercio Exterior y Turismo de Tumbes | 1 | 2009-11-20 to 2009-11-20 |
+| `ordenanza-regional-010-2009-gob-reg-tumbes-cr` | Ordenanza Regional N° 010-2009-GOB.REG.TUMBES-CR: Aprueban Cuadro para Asignación de Personal - CAP de la Sede Central del Gobierno Regional Tumbes año 2009 | 1 | 2009-09-20 to 2009-09-20 |
+| `ordenanza-regional-021-2008-gob-reg-tumbes-cr` | Ordenanza Regional N° 021-2008-GOB.REG.TUMBES-CR: Crean el Proyecto de Conservación y Aprovechamiento sostenible de los Recursos Naturales y el Ordenamiento Territorial en la Región Tumbes y aprueban  Reglamento | 1 | 2009-07-18 to 2009-07-18 |
+| `ordenanza-regional-020-2008-gob-reg-tumbes-cr` | Ordenanza Regional N° 020-2008-GOB.REG.TUMBES-CR: Aprueban Reglamento de Organización y Funciones de la Sede del Gobierno Regional Tumbes | 1 | 2009-07-18 to 2009-07-18 |
 
-The build made 128 commits:
+The build made 156 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 128 | first version of an act |
+| 156 | first version of an act |
 | 0 | one law on its in-force day |
 | 0 | changes no amendment note explains, credited to the publisher |
 
 Other counts:
 - 0 commits on the branch `futuro`: laws not yet in force on 2026-10-31.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
-- 128 laws in the record.
-- 256 tags.
+- 156 laws in the record.
+- 312 tags.
 
 ## Dates
 
@@ -168,7 +196,7 @@ When a law gives no date of its own, the default rule applies: Constitución Pol
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `781280dd558b8115883541a9d14012a55fa5d2322a7b3d0a5a02b3fa03fff51f` (1540716 bytes).
+- Corpus: sha256 `3729850d124067c9ea9b12f9b651ca75ff82cfb5e70096b2bcb112f33f161da9` (1775529 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `35388bee5aa05369f7da68f5a8fa015ea8d442b8`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
 - Python 3.14.4; git version 2.53.0.
 

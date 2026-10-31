@@ -162,6 +162,39 @@
     "ordenanza-regional-012-2017-gob-reg-tumbes-cr-cd"
    ],
    "sha256": "61399bdbe6f66889c002fa5d2b004f10fee97ed444e3cb14b3c5de3637e8344e"
+  },
+  "33-runner-02.json": {
+   "acts": [
+    "ordenanza-regional-001-2010-gob-reg-tumbes-cr",
+    "ordenanza-regional-001-2011-gob-reg-tumbes-cr",
+    "ordenanza-regional-003-2010-gob-reg-tumbes-cr",
+    "ordenanza-regional-004-2010-gob-reg-tumbes-cr",
+    "ordenanza-regional-005-2011-gob-reg-tumbes-cr",
+    "ordenanza-regional-006-2008-gob-reg-tumbes-cr",
+    "ordenanza-regional-006-2010-gob-reg-tumbes-cr",
+    "ordenanza-regional-007-2010-gob-reg-tumbes-cr",
+    "ordenanza-regional-008-2011-gob-reg-tumbes-cr",
+    "ordenanza-regional-009-2009-gob-reg-tumbes-cr",
+    "ordenanza-regional-009-2010-gob-reg-tumbes-cr",
+    "ordenanza-regional-009-2011-gob-reg-tumbes-cr",
+    "ordenanza-regional-010-2009-gob-reg-tumbes-cr",
+    "ordenanza-regional-010-2011-gob-reg-tumbes-cr",
+    "ordenanza-regional-011-2011-gob-reg-tumbes-cr",
+    "ordenanza-regional-012-2011-gob-reg-tumbes-pr",
+    "ordenanza-regional-013-2009-gob-reg-tumbes-cr",
+    "ordenanza-regional-013-2011-gob-reg-tumbes-cr",
+    "ordenanza-regional-014-2009-gob-reg-tumbes-cr",
+    "ordenanza-regional-014-2011-gob-reg-tumbes-cr",
+    "ordenanza-regional-015-2009-gob-reg-tumbes-cr",
+    "ordenanza-regional-016-2009-gob-reg-tumbes-cr",
+    "ordenanza-regional-017-2008-gob-reg-tumbes-cr",
+    "ordenanza-regional-017-2009-gob-reg-tumbes-cr",
+    "ordenanza-regional-020-2008-gob-reg-tumbes-cr",
+    "ordenanza-regional-021-2008-gob-reg-tumbes-cr",
+    "ordenanza-regional-022-2008-gob-reg-tumbes-cr",
+    "ordenanza-regional-027-2008-gob-reg-tumbes-cr"
+   ],
+   "sha256": "fdd913881b3a68354f94aec305d12eab19b2856222ac4c2f51b8c5b3efad77ed"
   }
  },
  "schema": 1

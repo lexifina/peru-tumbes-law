@@ -8,7 +8,7 @@ The text is in Spanish, exactly as El Peruano prints it.
 
 ## What this repository holds
 
-128 ordinances so far, newest first, added in parts of about 50. Each is shown **as published in El Peruano** (the oldest version available from this source): El Peruano publishes no consolidated texts, so an ordinance that amends another is its own entry and its changes are not applied to the earlier text.
+156 ordinances so far, newest first, added in parts of about 50. Each is shown **as published in El Peruano** (the oldest version available from this source): El Peruano publishes no consolidated texts, so an ordinance that amends another is its own entry and its changes are not applied to the earlier text.
 
 | Folder | Ordinance | Date |
 | --- | --- | --- |
@@ -141,6 +141,34 @@ The text is in Spanish, exactly as El Peruano prints it.
 | `ordenanza-regional-010-2012-gob-reg-tumbes-cr/` | Ordenanza Regional N° 010-2012-GOB.REG.TUMBES-CR: Declaran el segundo viernes de octubre de cada año como el Día del Niño, Niña y Adolescente Tumbesino e instit… | in force 5 January 2013 |
 | `ordenanza-regional-007-2012-gob-reg-tumbes-cr/` | Ordenanza Regional N° 007-2012-GOB.REG.TUMBES-CR: Aprueban el Plan Regional Concertado de Salud 2012 - 2016 | in force 23 November 2012 |
 | `ordenanza-regional-006-2012-gob-reg-tumbes-cr/` | Ordenanza Regional N° 006-2012-GOB.REG.TUMBES-CR: Aprueban el Plan de Desarrollo Regional Concertado 2011-2014 del Gobierno Regional | in force 14 October 2012 |
+| `ordenanza-regional-014-2011-gob-reg-tumbes-cr/` | Ordenanza Regional N° 014-2011-GOB.REG.TUMBES-CR: Crean el Consejo Regional de la Micro y Pequeña Empresa de la Región Tumbes - COREMYPE Tumbes | in force 20 February 2012 |
+| `ordenanza-regional-012-2011-gob-reg-tumbes-pr/` | Ordenanza Regional N° 012-2011/GOB. REG. TUMBES-PR: Formalizan la creación de la Red de Acción por los Derechos de las Niñas, Niños y Adolescentes de Tumbes | in force 20 February 2012 |
+| `ordenanza-regional-013-2011-gob-reg-tumbes-cr/` | Ordenanza Regional N° 013-2011-GOB.REG.TUMBES-CR: Disponen implementar la Directiva N° 005-2010-EF/76.01 "Directiva para la ejecución presupuestaria" | in force 10 February 2012 |
+| `ordenanza-regional-011-2011-gob-reg-tumbes-cr/` | Ordenanza Regional N° 011-2011/GOB.REG. TUMBES-CR: Modifican Reglamento de Organización y Funciones de la Dirección Regional de Agricultura Tumbes | in force 10 November 2011 |
+| `ordenanza-regional-010-2011-gob-reg-tumbes-cr/` | Ordenanza Regional N° 010-2011-GOB. REG. TUMBES-CR: Aprueban la actualización del Reglamento de Organización y Funciones de la Dirección Regional de Trabajo y P… | in force 10 October 2011 |
+| `ordenanza-regional-008-2011-gob-reg-tumbes-cr/` | Ordenanza Regional N° 008-2011-GOB.REG. TUMBES-CR: Modifican el nombre de la Oficina de Atención a Personas con Habilidades Diferentes por Oficina de Atención a… | in force 10 September 2011 |
+| `ordenanza-regional-001-2011-gob-reg-tumbes-cr/` | Ordenanza Regional N° 001-2011-GOB.REG. TUMBES-CR: Aprueban modificación del Cuadro para Asignación de Personal de la Dirección Regional de la Producción de Tum… | in force 22 August 2011 |
+| `ordenanza-regional-009-2011-gob-reg-tumbes-cr/` | Ordenanza Regional N° 009-2011-GOB.REG. TUMBES-CR: Crean la Agencia Regional de Cooperación Técnica Internacional y Fomento de las Inversiones de Tumbes - ARCIT | in force 22 August 2011 |
+| `ordenanza-regional-005-2011-gob-reg-tumbes-cr/` | Ordenanza Regional N° 005-2011-GOB.REG.TUMBES-CR: Declaran feriado laborable los primeros miércoles y jueves de los meses de marzo, junio, setiembre y diciembre… | in force 29 July 2011 |
+| `ordenanza-regional-009-2010-gob-reg-tumbes-cr/` | Ordenanza Regional N° 009-2010-GOB.REG. TUMBES-CR: Aprueban el Reglamento de Organización y Funciones - ROF 2010, de la Dirección Regional de Agricultura | in force 9 September 2010 |
+| `ordenanza-regional-007-2010-gob-reg-tumbes-cr/` | Ordenanza Regional N° 007-2010-GOB.REG.TUMBES-CR: Crean la Sub Comisión Regional de Lucha contra los Delitos Aduaneros y Piratería | in force 27 June 2010 |
+| `ordenanza-regional-006-2010-gob-reg-tumbes-cr/` | Ordenanza Regional N° 006-2010-GOB.REG.TUMBES-CR: Aprueban Políticas Regionales de Formación Profesionial en Tumbes | in force 27 June 2010 |
+| `ordenanza-regional-004-2010-gob-reg-tumbes-cr/` | Ordenanza Regional N° 004-2010-GOB.REG.TUMBES-CR: Aprueban conformación de la Comisión Técnica Regional de Zonificación Ecológica Económica y Ordenamiento Terri… | in force 5 June 2010 |
+| `ordenanza-regional-003-2010-gob-reg-tumbes-cr/` | Ordenanza Regional N° 003-2010/GOB.REG.TUMBES-CR: Aprueban el Proyecto Educativo Regional de Tumbes 2010-2025  PER Tumbes | in force 7 May 2010 |
+| `ordenanza-regional-014-2009-gob-reg-tumbes-cr/` | Ordenanza Regional N° 014-2009.GOB.REG.TUMBES-CR: Crean el Consejo Regional de Fomento Artesanal de Tumbes - COREFART | in force 29 April 2010 |
+| `ordenanza-regional-016-2009-gob-reg-tumbes-cr/` | Ordenanza Regional N° 016-2009-GOB.REG.TUMBES-CR: Transfieren funciones y competencias sobre micro y pequeñas empresas a la Dirección Regional de la Producción | in force 7 February 2010 |
+| `ordenanza-regional-022-2008-gob-reg-tumbes-cr/` | Ordenanza Regional N° 022-2008-GOB.REG. TUMBES-CR: Aprueban antigüedad máxima vehicular para acceder al servicio de transporte terrestre de personas en la Regió… | in force 4 February 2010 |
+| `ordenanza-regional-001-2010-gob-reg-tumbes-cr/` | Ordenanza Regional N° 001-2010-GOB.REG.TUMBES-CR: Modifican Reglamento de Organización y Funciones de la Dirección Regional de Salud | in force 31 January 2010 |
+| `ordenanza-regional-006-2008-gob-reg-tumbes-cr/` | Ordenanza Regional N° 006-2008-GOB.REG. TUMBES-CR: Crean el Programa Regional de Manejo Sostenible de los Bosques Secos - NORBOSQUE- Tumbes | in force 23 January 2010 |
+| `ordenanza-regional-017-2008-gob-reg-tumbes-cr/` | Ordenanza Regional N° 017-2008-GOB.REG.TUMBES-CR: Aprueban formatos de Declaración Jurada para el acopio, transporte y/o comercialización de productos hidrobiol… | in force 18 January 2010 |
+| `ordenanza-regional-017-2009-gob-reg-tumbes-cr/` | Ordenanza Regional N° 017-2009-GOB.REG.TUMBES-CR: Aprueban Plan Estratégico Regional Multisectorial 2010 - 2015 para la prevención y control de las ITS, VIH y S… | in force 1 January 2010 |
+| `ordenanza-regional-013-2009-gob-reg-tumbes-cr/` | Ordenanza Regional N° 013-2009-GOB.REG.TUMBES-CR: Crean el "Sistema Regional de Conservación de Áreas Naturales de Tumbes - SRCA Tumbes" y el "Programa Regional… | in force 1 January 2010 |
+| `ordenanza-regional-015-2009-gob-reg-tumbes-cr/` | Ordenanza Regional N° 015-2009/GOB.REG.TUMBES-CR: Crean la Unidad Ejecutora del Proyecto Especial Irrigación de la Margen Derecha del Río Tumbes y aprueban Manu… | in force 6 December 2009 |
+| `ordenanza-regional-009-2009-gob-reg-tumbes-cr/` | Ordenanza Regional N° 009-2009-GOB.REG.TUMBES-CR: Crean el Consejo Regional del Trabajo y Promoción del Empleo de Tumbes | in force 26 November 2009 |
+| `ordenanza-regional-027-2008-gob-reg-tumbes-cr/` | Ordenanza Regional N° 027-2008-GOB.REG.TUMBES-CR: Establecen obligatoriedad de inscripción de los Prestadores de Servicios Turísticos de la Región Tumbes, en lo… | in force 20 November 2009 |
+| `ordenanza-regional-010-2009-gob-reg-tumbes-cr/` | Ordenanza Regional N° 010-2009-GOB.REG.TUMBES-CR: Aprueban Cuadro para Asignación de Personal - CAP de la Sede Central del Gobierno Regional Tumbes año 2009 | in force 20 September 2009 |
+| `ordenanza-regional-021-2008-gob-reg-tumbes-cr/` | Ordenanza Regional N° 021-2008-GOB.REG.TUMBES-CR: Crean el Proyecto de Conservación y Aprovechamiento sostenible de los Recursos Naturales y el Ordenamiento Ter… | in force 18 July 2009 |
+| `ordenanza-regional-020-2008-gob-reg-tumbes-cr/` | Ordenanza Regional N° 020-2008-GOB.REG.TUMBES-CR: Aprueban Reglamento de Organización y Funciones de la Sede del Gobierno Regional Tumbes | in force 18 July 2009 |
 
 ## Source
 
