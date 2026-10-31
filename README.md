@@ -8,7 +8,7 @@ The text is in Spanish, exactly as El Peruano prints it.
 
 ## What this repository holds
 
-116 ordinances so far, newest first, added in parts of about 50. Each is shown **as published in El Peruano** (the oldest version available from this source): El Peruano publishes no consolidated texts, so an ordinance that amends another is its own entry and its changes are not applied to the earlier text.
+128 ordinances so far, newest first, added in parts of about 50. Each is shown **as published in El Peruano** (the oldest version available from this source): El Peruano publishes no consolidated texts, so an ordinance that amends another is its own entry and its changes are not applied to the earlier text.
 
 | Folder | Ordinance | Date |
 | --- | --- | --- |
@@ -129,6 +129,18 @@ The text is in Spanish, exactly as El Peruano prints it.
 | `ordenanza-regional-005-2013-gob-reg-tumbes-cr/` | Ordenanza Regional N° 005-2013-GOB.REG.TUMBES-CR: Aprueban Reglamento de Organización y Funciones - ROF y Cuadro para Asignación de Personal - CAP de la Unidad … | in force 28 June 2013 |
 | `ordenanza-regional-009-2012-gob-reg-tumbes-cr/` | Ordenanza Regional N° 009-2012-GOB.REG. TUMBES-CR: Aprueban el "Plan Regional de la Juventud de Tumbes 2012-2016" | in force 5 January 2013 |
 | `ordenanza-regional-008-2012-gob-reg-tumbes-cr/` | Ordenanza Regional N° 008-2012-GOB.REG.TUMBES-CR: Aprueban el Plan Regional de Formación Profesional de Tumbes del 2012 - 2015 | in force 5 January 2013 |
+| `ordenanza-regional-006-2021-gob-reg-tumbes-cr-cd/` | Ordenanza Regional N° 006-2021/GOB.REG.TUMBES-CR-CD: Crean el Consejo Regional de Ciencia, Tecnología e Innovación (CORCYTEC) Tumbes | in force 30 April 2022 |
+| `ordenanza-regional-006-2020-gob-reg-tumbes-cr-cd/` | Ordenanza Regional N° 006-2020-GOB.REG.TUMBES-CR-CD: Aprueban el Plan de Acción Regional de Seguridad Ciudadana de la Región Tumbes, para el año 2020 | in force 10 May 2021 |
+| `ordenanza-regional-009-2020-gob-reg-tumbes-cr-cd/` | Ordenanza Regional N° 009-2020-GOB.REG.TUMBES.CR-CD: Aprueban el Plan Regional Exportador - PERX TUMBES 2021 - 2025 | in force 10 May 2021 |
+| `ordenanza-regional-001-2019-gob-reg-tumbes-cr-cd/` | Ordenanza Regional N° 001-2019/GOB.REG.TUMBES-CR-CD: Aprueban Protocolo del Sistema de Alerta Temprana ante Inundaciones de los ríos Tumbes y Zarumilla | in force 1 March 2019 |
+| `ordenanza-regional-012-2017-gob-reg-tumbes-cr-cd/` | Ordenanza Regional N° 012-2017/GOB.REG.TUMBES-CR-CD: Aprueban las Prioridades Regionales de Investigación en Salud para el periodo 2015-2021 | in force 8 January 2018 |
+| `ordenanza-regional-006-2013-gob-reg-tumbes-cr/` | Ordenanza Regional N° 006-2013-GOB.REG.TUMBES-CR: Autorizan implementación del Programa Iniciativas de Apoyo a la Competitividad Productiva PROCOMPITE TUMBES. | in force 11 November 2013 |
+| `ordenanza-regional-003-2013-gob-reg-tumbes-cr/` | Ordenanza Regional N° 003-2013-GOB.REG.TUMBES-CR: Aprueban el reglamento del proceso de identificación y acreditación de los agentes participantes, el Plan del … | in force 4 July 2013 |
+| `ordenanza-regional-002-2013-gob-reg-tumbes-cr/` | Ordenanza Regional N° 002-2013-GOB.REG.TUMBES-CR: Reconocen y conforman Grupo Técnico Multisectorial a que hace referencia el Acuerdo de Consejo Regional N° 015… | in force 18 May 2013 |
+| `ordenanza-regional-001-2013-gob-reg-tumbes-cr/` | Ordenanza Regional N° 001-2013-GOB.REG.TUMBES-CR: Aprueban la realización del ejercicio de Simulacro Binacional por Sismo y Tsunami a nivel regional, el viernes… | in force 13 March 2013 |
+| `ordenanza-regional-010-2012-gob-reg-tumbes-cr/` | Ordenanza Regional N° 010-2012-GOB.REG.TUMBES-CR: Declaran el segundo viernes de octubre de cada año como el Día del Niño, Niña y Adolescente Tumbesino e instit… | in force 5 January 2013 |
+| `ordenanza-regional-007-2012-gob-reg-tumbes-cr/` | Ordenanza Regional N° 007-2012-GOB.REG.TUMBES-CR: Aprueban el Plan Regional Concertado de Salud 2012 - 2016 | in force 23 November 2012 |
+| `ordenanza-regional-006-2012-gob-reg-tumbes-cr/` | Ordenanza Regional N° 006-2012-GOB.REG.TUMBES-CR: Aprueban el Plan de Desarrollo Regional Concertado 2011-2014 del Gobierno Regional | in force 14 October 2012 |
 
 ## Source
 

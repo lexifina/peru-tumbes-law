@@ -131,20 +131,32 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `ordenanza-regional-005-2013-gob-reg-tumbes-cr` | Ordenanza Regional N° 005-2013-GOB.REG.TUMBES-CR: Aprueban Reglamento de Organización y Funciones - ROF y Cuadro para Asignación de Personal - CAP de la Unidad Ejecutora 402: Hospital Regional "José Alfredo Mendoza Olavarría" JAMO II - 2. | 1 | 2013-06-28 to 2013-06-28 |
 | `ordenanza-regional-009-2012-gob-reg-tumbes-cr` | Ordenanza Regional N° 009-2012-GOB.REG. TUMBES-CR: Aprueban el "Plan Regional de la Juventud de Tumbes 2012-2016" | 1 | 2013-01-05 to 2013-01-05 |
 | `ordenanza-regional-008-2012-gob-reg-tumbes-cr` | Ordenanza Regional N° 008-2012-GOB.REG.TUMBES-CR: Aprueban el Plan Regional de Formación Profesional de Tumbes del 2012 - 2015 | 1 | 2013-01-05 to 2013-01-05 |
+| `ordenanza-regional-006-2021-gob-reg-tumbes-cr-cd` | Ordenanza Regional N° 006-2021/GOB.REG.TUMBES-CR-CD: Crean el Consejo Regional de Ciencia, Tecnología e Innovación (CORCYTEC) Tumbes | 1 | 2022-04-30 to 2022-04-30 |
+| `ordenanza-regional-006-2020-gob-reg-tumbes-cr-cd` | Ordenanza Regional N° 006-2020-GOB.REG.TUMBES-CR-CD: Aprueban el Plan de Acción Regional de Seguridad Ciudadana de la Región Tumbes, para el año 2020 | 1 | 2021-05-10 to 2021-05-10 |
+| `ordenanza-regional-009-2020-gob-reg-tumbes-cr-cd` | Ordenanza Regional N° 009-2020-GOB.REG.TUMBES.CR-CD: Aprueban el Plan Regional Exportador - PERX TUMBES 2021 - 2025 | 1 | 2021-05-10 to 2021-05-10 |
+| `ordenanza-regional-001-2019-gob-reg-tumbes-cr-cd` | Ordenanza Regional N° 001-2019/GOB.REG.TUMBES-CR-CD: Aprueban Protocolo del Sistema de Alerta Temprana ante Inundaciones de los ríos Tumbes y Zarumilla | 1 | 2019-03-01 to 2019-03-01 |
+| `ordenanza-regional-012-2017-gob-reg-tumbes-cr-cd` | Ordenanza Regional N° 012-2017/GOB.REG.TUMBES-CR-CD: Aprueban las Prioridades Regionales de Investigación en Salud para el periodo 2015-2021 | 1 | 2018-01-08 to 2018-01-08 |
+| `ordenanza-regional-006-2013-gob-reg-tumbes-cr` | Ordenanza Regional N° 006-2013-GOB.REG.TUMBES-CR: Autorizan implementación del Programa Iniciativas de Apoyo a la Competitividad Productiva PROCOMPITE TUMBES. | 1 | 2013-11-11 to 2013-11-11 |
+| `ordenanza-regional-003-2013-gob-reg-tumbes-cr` | Ordenanza Regional N° 003-2013-GOB.REG.TUMBES-CR: Aprueban el reglamento del proceso de identificación y acreditación de los agentes participantes, el Plan del Presupuesto Participativo y Cronograma de actividades del Proceso Presupuestario Participativo 2014. | 1 | 2013-07-04 to 2013-07-04 |
+| `ordenanza-regional-002-2013-gob-reg-tumbes-cr` | Ordenanza Regional N° 002-2013-GOB.REG.TUMBES-CR: Reconocen y conforman Grupo Técnico Multisectorial a que hace referencia el Acuerdo de Consejo Regional N° 015-2013/GOB.REG.TUMBES-CR-CD | 1 | 2013-05-18 to 2013-05-18 |
+| `ordenanza-regional-001-2013-gob-reg-tumbes-cr` | Ordenanza Regional N° 001-2013-GOB.REG.TUMBES-CR: Aprueban la realización del ejercicio de Simulacro Binacional por Sismo y Tsunami a nivel regional, el viernes 22 de marzo de 2013 | 1 | 2013-03-13 to 2013-03-13 |
+| `ordenanza-regional-010-2012-gob-reg-tumbes-cr` | Ordenanza Regional N° 010-2012-GOB.REG.TUMBES-CR: Declaran el segundo viernes de octubre de cada año como el Día del Niño, Niña y Adolescente Tumbesino e institucionalizan el Congreso Regional Anual por los Derechos de las Niñas, Niños y Adolescentes de Tumbes | 1 | 2013-01-05 to 2013-01-05 |
+| `ordenanza-regional-007-2012-gob-reg-tumbes-cr` | Ordenanza Regional N° 007-2012-GOB.REG.TUMBES-CR: Aprueban el Plan Regional Concertado de Salud 2012 - 2016 | 1 | 2012-11-23 to 2012-11-23 |
+| `ordenanza-regional-006-2012-gob-reg-tumbes-cr` | Ordenanza Regional N° 006-2012-GOB.REG.TUMBES-CR: Aprueban el Plan de Desarrollo Regional Concertado 2011-2014 del Gobierno Regional | 1 | 2012-10-14 to 2012-10-14 |
 
-The build made 116 commits:
+The build made 128 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 116 | first version of an act |
+| 128 | first version of an act |
 | 0 | one law on its in-force day |
 | 0 | changes no amendment note explains, credited to the publisher |
 
 Other counts:
 - 0 commits on the branch `futuro`: laws not yet in force on 2026-10-31.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
-- 116 laws in the record.
-- 232 tags.
+- 128 laws in the record.
+- 256 tags.
 
 ## Dates
 
@@ -156,13 +168,13 @@ When a law gives no date of its own, the default rule applies: Constitución Pol
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `c9c2ce860eadb9fb0163e36419cfbff904d5d2dab6d3090d40d2659c2109d78e` (1421920 bytes).
+- Corpus: sha256 `781280dd558b8115883541a9d14012a55fa5d2322a7b3d0a5a02b3fa03fff51f` (1540716 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `35388bee5aa05369f7da68f5a8fa015ea8d442b8`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
 - Python 3.14.4; git version 2.53.0.
 
 ## Checks
 
-116 versions of 116 acts read back from git on the day each took effect and on the day before: 0 mismatches. Trailers: 0 commits whose trailers git cannot parse. Health: 0 merge commits on main, 0 commit dates that go backwards, 0 commits dated after the build.
+Not yet run for this build.
 
 No second build of this corpus has been compared yet.
 

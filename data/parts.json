@@ -145,6 +145,23 @@
     "ordenanza-regional-009-2012-gob-reg-tumbes-cr"
    ],
    "sha256": "bf291788a0c49b45b4071d415f6a5ae33734e0be41ab783a03e9503e1e28d6e8"
+  },
+  "33-runner-01.json": {
+   "acts": [
+    "ordenanza-regional-001-2013-gob-reg-tumbes-cr",
+    "ordenanza-regional-001-2019-gob-reg-tumbes-cr-cd",
+    "ordenanza-regional-002-2013-gob-reg-tumbes-cr",
+    "ordenanza-regional-003-2013-gob-reg-tumbes-cr",
+    "ordenanza-regional-006-2012-gob-reg-tumbes-cr",
+    "ordenanza-regional-006-2013-gob-reg-tumbes-cr",
+    "ordenanza-regional-006-2020-gob-reg-tumbes-cr-cd",
+    "ordenanza-regional-006-2021-gob-reg-tumbes-cr-cd",
+    "ordenanza-regional-007-2012-gob-reg-tumbes-cr",
+    "ordenanza-regional-009-2020-gob-reg-tumbes-cr-cd",
+    "ordenanza-regional-010-2012-gob-reg-tumbes-cr",
+    "ordenanza-regional-012-2017-gob-reg-tumbes-cr-cd"
+   ],
+   "sha256": "61399bdbe6f66889c002fa5d2b004f10fee97ed444e3cb14b3c5de3637e8344e"
   }
  },
  "schema": 1
