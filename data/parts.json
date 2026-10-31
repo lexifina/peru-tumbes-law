@@ -1,0 +1,151 @@
+{
+ "parts": {
+  "30-ordenanzas-01.json": {
+   "acts": [
+    "ordenanza-regional-001-2023-gob-reg-tumbes-cr-cd",
+    "ordenanza-regional-001-2025-gob-reg-tumbes-cr-cd",
+    "ordenanza-regional-001-2026-gob-reg-tumbes-cr-cd",
+    "ordenanza-regional-002-2023-gob-reg-tumbes-cr-cd",
+    "ordenanza-regional-002-2025-gob-reg-tumbes-cr-cd",
+    "ordenanza-regional-002-2026-gob-reg-tumbes-cr-cd",
+    "ordenanza-regional-003-2025-gob-reg-tumbes-cr-cd",
+    "ordenanza-regional-004-2024-gob-reg-tumbes-cr-cd",
+    "ordenanza-regional-005-2025-gob-reg-tumbes-cr-cd",
+    "ordenanza-regional-005-2026-gob-reg-tumbes-cr-cd",
+    "ordenanza-regional-006-2024-gob-reg-tumbes-cr-cd",
+    "ordenanza-regional-006-2026-gob-reg-tumbes-cr-cd",
+    "ordenanza-regional-007-2022-gob-reg-tumbes-cr-cd",
+    "ordenanza-regional-008-2023-gob-reg-tumbes-cr-cd",
+    "ordenanza-regional-008-2024-gob-reg-tumbes-cr-cd",
+    "ordenanza-regional-008-2025-gob-reg-tumbes-cr-cd",
+    "ordenanza-regional-009-2023-gob-reg-tumbes-cr-cd",
+    "ordenanza-regional-009-2024-gob-reg-tumbes-cr-cd",
+    "ordenanza-regional-010-2024-gob-reg-tumbes-cr-cd",
+    "ordenanza-regional-010-2025-gob-reg-tumbes-cr-cd",
+    "ordenanza-regional-011-2024-gob-reg-tumbes-cr-cd",
+    "ordenanza-regional-011-2026-gob-reg-tumbes-cr-cd",
+    "ordenanza-regional-012-2025-gob-reg-tumbes-cr-cd",
+    "ordenanza-regional-013-2025-gob-reg-tumbes-cr-cd",
+    "ordenanza-regional-013-2026-gob-reg-tumbes-cr-cd",
+    "ordenanza-regional-015-2026-gob-reg-tumbes-cr-cd",
+    "ordenanza-regional-016-2022-gob-reg-tumbes-cr-cd",
+    "ordenanza-regional-017-2026-gob-reg-tumbes-cr-cd",
+    "ordenanza-regional-018-2026-gob-reg-tumbes-cr-cd",
+    "ordenanza-regional-019-2026-gob-reg-tumbes-cr-cd",
+    "ordenanza-regional-020-2026-gob-reg-tumbes-cr-cd",
+    "ordenanza-regional-021-2026-gob-reg-tumbes-cr-cd",
+    "ordenanza-regional-ordenanza-regional"
+   ],
+   "sha256": "d35164f1ef56362f44c9bb800fab627d4ebba2b190285c627456937721bf9ae3"
+  },
+  "31-recuperadas-01.json": {
+   "acts": [
+    "ordenanza-regional-005-2024-gob-reg-tumbes-cr-cd",
+    "ordenanza-regional-007-2026-gob-reg-tumbes-cr-cd",
+    "ordenanza-regional-010-2026-gob-reg-tumbes-cr-cd"
+   ],
+   "sha256": "7990c4b47dd65e7840c00ef027d5565265877068ce1fe1c4622c1067094e23df"
+  },
+  "32-anteriores-01.json": {
+   "acts": [
+    "ordenanza-regional-001-2021-gob-reg-tumbes-cr-cd",
+    "ordenanza-regional-001-2022-gob-reg-tumbes-cr-cd",
+    "ordenanza-regional-002-2018-gob-reg-tumbes-cr-cd",
+    "ordenanza-regional-002-2021-gob-reg-tumbes-cr-cd",
+    "ordenanza-regional-002-2022-gob-reg-tumbes-cr-cd",
+    "ordenanza-regional-003-2020-gob-reg-tumbes-cr-cd",
+    "ordenanza-regional-003-2022-gob-reg-tumbes-cr-cd",
+    "ordenanza-regional-004-2017-gob-reg-tumbes-cr-cd",
+    "ordenanza-regional-004-2018-gob-reg-tumbes-cr-cd",
+    "ordenanza-regional-004-2019-gob-reg-tumbes-cr-cd",
+    "ordenanza-regional-004-2020-gob-reg-tumbes-cr-cd",
+    "ordenanza-regional-004-2021-gob-reg-tumbes-cr-cd",
+    "ordenanza-regional-005-2019-gob-reg-tumbes-cr-cd",
+    "ordenanza-regional-005-2020-gob-reg-tumbes-cr-cd",
+    "ordenanza-regional-005-2021-gob-reg-tumbes-cr-cd",
+    "ordenanza-regional-005-2022-gob-reg-tumbes-cr-cd",
+    "ordenanza-regional-006-2019-gob-reg-tumbes-cr-cd",
+    "ordenanza-regional-006-2022-gob-reg-tumbes-cr-cd",
+    "ordenanza-regional-008-2018-gob-reg-tumbes-cr-cd",
+    "ordenanza-regional-008-2020-gob-reg-tumbes-cr-cd",
+    "ordenanza-regional-009-2017-gob-reg-tumbes-cr-cd",
+    "ordenanza-regional-009-2018-gob-reg-tumbes-cr-cd",
+    "ordenanza-regional-009-2019-gob-reg-tumbes-cr-cd",
+    "ordenanza-regional-010-2018-gob-reg-tumbes-cr-cd",
+    "ordenanza-regional-010-2019-gob-reg-tumbes-cr-cd",
+    "ordenanza-regional-011-2018-gob-reg-tumbes-cr-cd",
+    "ordenanza-regional-011-2019-gob-reg-tumbes-cr-cd",
+    "ordenanza-regional-011-2020-gob-reg-tumbes-cr-cd",
+    "ordenanza-regional-011-2022-gob-reg-tumbes-cr-cd",
+    "ordenanza-regional-012-2018-gob-reg-tumbes-cr-cd",
+    "ordenanza-regional-012-2022-gob-reg-tumbes-cr-cd",
+    "ordenanza-regional-013-2019-gob-reg-tumbes-cr-cd",
+    "ordenanza-regional-014-2019-gob-reg-tumbes-cr-cd",
+    "ordenanza-regional-014-2022-gob-reg-tumbes-cr-cd",
+    "ordenanza-regional-015-2018-gob-reg-tumbes-cr-cd",
+    "ordenanza-regional-015-2022-gob-reg-tumbes-cr-cd"
+   ],
+   "sha256": "1390e45006a0bea27a3188c1c76fa39b7a734c20551460876b08805460866575"
+  },
+  "32-anteriores-02.json": {
+   "acts": [
+    "ordenanza-regional-001-2017-gob-reg-tumbes-cr-cd",
+    "ordenanza-regional-0011-2016-gob-reg-tumbes-cr-cd",
+    "ordenanza-regional-002-2015-gob-reg-tumbes-cr",
+    "ordenanza-regional-002-2016-gob-reg-tumbes-cr-cd",
+    "ordenanza-regional-002-2017-gob-reg-tumbes-cr-cd",
+    "ordenanza-regional-003-2011-gob-reg-tumbes-cr",
+    "ordenanza-regional-003-2015-gob-reg-tumbes-cr",
+    "ordenanza-regional-003-2017-gob-reg-tumbes-cr-cd",
+    "ordenanza-regional-004-2016-gob-reg-tumbes-cr-cd",
+    "ordenanza-regional-005-2016-gob-reg-tumbes-cr-cd",
+    "ordenanza-regional-007-2015-gob-reg-tumbes-cr-cd",
+    "ordenanza-regional-008-2015-gob-reg-tumbes-cr",
+    "ordenanza-regional-008-2017-gob-reg-tumbes-cr-cd",
+    "ordenanza-regional-010-2014-gob-reg-tumbes-cr",
+    "ordenanza-regional-010-2015-gob-reg-tumbes-cr",
+    "ordenanza-regional-010-2016-gob-reg-tumbes-cr-cd",
+    "ordenanza-regional-010-2017-gob-reg-tumbes-cr-cd",
+    "ordenanza-regional-011-2014-gob-reg-tumbes-cr",
+    "ordenanza-regional-012-2015-gob-reg-tumbes-cr",
+    "ordenanza-regional-013-2013-gob-reg-tumbes-cr",
+    "ordenanza-regional-013-2015-gob-reg-tumbes-cr",
+    "ordenanza-regional-014-2015-gob-reg-tumbes-cr",
+    "ordenanza-regional-014-2016-gob-reg-tumbes-cr-cd",
+    "ordenanza-regional-014-2017-gob-reg-tumbes-cr-cd",
+    "ordenanza-regional-015-2017-gob-reg-tumbes-cr-cd",
+    "ordenanza-regional-016-2016-gob-reg-tumbes-cr-cd",
+    "ordenanza-regional-016-2017-gob-reg-tumbes-cr-cd",
+    "ordenanza-regional-017-2016-gob-reg-tumbes-cr-cd",
+    "ordenanza-regional-018-2016-gob-reg-tumbes-cr-cd",
+    "ordenanza-regional-019-2016-gob-reg-tumbes-cr-cd",
+    "ordenanza-regional-019-2017-gob-reg-tumbes-cr-cd",
+    "ordenanza-regional-020-2017-gob-reg-tumbes-cr-cd",
+    "ordenanza-regional-021-2016-gob-reg-tumbes-cr-cd",
+    "ordenanza-regional-021-2017-gob-reg-tumbes-cr-cd"
+   ],
+   "sha256": "01dd29677aa1fa9cfd4931512ac35cd827dbe15e9dc16263409efcdef20bdd61"
+  },
+  "32-anteriores-03.json": {
+   "acts": [
+    "ordenanza-regional-004-2011-gob-reg-tumbes-cr",
+    "ordenanza-regional-004-2013-gob-reg-tumbes-cr",
+    "ordenanza-regional-005-2013-gob-reg-tumbes-cr",
+    "ordenanza-regional-006-2011-gob-reg-tumbes-cr",
+    "ordenanza-regional-007-2009-gob-reg-tumbes-cr",
+    "ordenanza-regional-007-2011-gob-reg-tumbes-cr",
+    "ordenanza-regional-007-2013-gob-reg-tumbes-cr",
+    "ordenanza-regional-008-2009-gob-reg-tumbes-cr"
+   ],
+   "sha256": "1101054601c6b46f7a42c3fe7dbdd6d8e01604bc9033ab5401abe722b26d5b86"
+  },
+  "32-anteriores-04.json": {
+   "acts": [
+    "ordenanza-regional-008-2012-gob-reg-tumbes-cr",
+    "ordenanza-regional-009-2012-gob-reg-tumbes-cr"
+   ],
+   "sha256": "bf291788a0c49b45b4071d415f6a5ae33734e0be41ab783a03e9503e1e28d6e8"
+  }
+ },
+ "schema": 1
+}
