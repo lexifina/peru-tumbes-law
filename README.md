@@ -1,5 +1,7 @@
 # Tumbes: law history in git
 
+Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is the law of Tumbes, Peru, which global-law reads at `peru/tumbes/acts/`.
+
 The regional ordinances (ordenanzas regionales) of the Consejo Regional of the Tumbes region of Peru (Gobierno Regional de Tumbes), as a git history: one folder per ordinance, one file per article, one commit per ordinance on the day it took effect.
 
 It follows the shared design of [lexifina/global-law](https://github.com/lexifina/global-law), which places it at `pe-tum/`. Peru's national law is in [lexifina/peru-law](https://github.com/lexifina/peru-law).
